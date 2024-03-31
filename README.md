@@ -1,5 +1,5 @@
 ### "I'm just an enthusiasts, but good archetype is not created in a week or a day."
-'Is created little by little, day by day protracted and patient effort is needed....'
+'Is created little by little, day by day protracted and patient effort is needed...'
 
 <!--
 **maximiliano1997/maximiliano1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
