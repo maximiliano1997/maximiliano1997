@@ -21,7 +21,7 @@ I'm sure you're more experienced than I am, so I’d appreciate any advice you h
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,SEPARADOR,mongo,express,react,nodejs,django)](https://github.com/maximiliano1997/)
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@aguerima/82402990-40bd-49ba-885e-6544afae67fb.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@aguerima/82402990-40bd-49ba-885e-6544afae67fb.png" width="654px"/></a>
 
 
 ![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
