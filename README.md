@@ -21,7 +21,7 @@ I'm sure you're more experienced than I am, so I’d appreciate any advice you h
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,SEPARADOR,mongo,express,react,nodejs,django)](https://github.com/maximiliano1997/)
 
-![WakaTime Stats](https://wakatime.com/share/@aguerima/defecee7-0542-4d7c-bca5-c30b1ec9c24e.svg)
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@aguerima/82402990-40bd-49ba-885e-6544afae67fb.png" /></a>
 
 
 ![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
