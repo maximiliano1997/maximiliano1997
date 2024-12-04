@@ -1,6 +1,6 @@
 ### Hey! Thanks for joining. Let’s make it happen!
 
-Let me introduce myself to you...
+Let me introduce myself to you... 
 
 ***I'm Maximiliano Imanol Aguer*** - a full-stack developer and student with a long-term focus on Web Development, Investing, and Finance. I’m constantly working on projects that help me learn, grow, and gain deeper insights.
 
